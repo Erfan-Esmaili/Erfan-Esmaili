@@ -23,5 +23,10 @@ job = FrontEnd developer (Computer student)
 
 <h2>🫂 Connect Me</h2>
 
+<p align=center>
+<a href='https://t.me/tetis132'>
+  <img src='https://img.shields.io/badge/Telegram-@tetis132-blue?logo=telegram'>
+</a>
+</p>
 
 
