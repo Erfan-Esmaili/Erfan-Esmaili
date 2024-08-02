@@ -22,10 +22,19 @@ job = FrontEnd developer (Computer student)
 <hr>
 
 <h2>🫂 Connect Me</h2>
-
+<p align=center>
+  <a href='erfan.esmaili1382@gmail.com'>
+  <img src='https://img.shields.io/badge/Gmail-send_message-blue?style=plastic&logo=Gmail&logoColor=red&labelColor=white&color=red'/>
+</a>
+ </p>
 <p align=center>
 <a href='https://t.me/tetis132'>
-  <img src='https://img.shields.io/badge/Telegram-@tetis132-blue?logo=telegram'>
+  <img src='https://img.shields.io/badge/Telegram-send_message-blue?logo=telegram'/>
+</a>
+</p>
+<p align=center>
+<a href='erfan.esmaili1382@gmail.com'>
+  <img src='https://img.shields.io/badge/whatsapp-send_message-d?style=flat&logo=whatsapp&logoColor=%233AD354&labelColor=%23224040&color=%233AD354'/>
 </a>
 </p>
 
