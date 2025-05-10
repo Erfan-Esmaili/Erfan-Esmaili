@@ -23,6 +23,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Studio%203T-7C8D3C?style=for-the-badge&logo=studio3t&logoColor=white" />
+
+
+### 🧠 What am I doing now?
+- 🧑‍💻 Developing an e-commerce website using HTML, CSS, and JavaScript.
+- 🖥️ Learning React to build interactive UIs and improve my front-end skills.
+- 🔧 Working with MongoDB to manage product data and user authentication for the e-commerce project.
+
+
+
+
+
 
 
 
