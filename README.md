@@ -3,7 +3,6 @@
 ```javascript
 firstName = 'Erfan' 
 lastName = 'Esmaili'
-age = 21
 job = FrontEnd developer (Computer student)
 ```
 > <h4>Which tools do I use?</h4>
