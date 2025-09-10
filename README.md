@@ -35,12 +35,7 @@
 
 
 ### 🧠 What am I doing now?
-- 🧑‍💻 Developing an e-commerce website using HTML, CSS, and JavaScript.
 - 🖥️ Learning React to build interactive UIs and improve my front-end skills.
-- 🔧 Working with MongoDB to manage product data and user authentication for the e-commerce project.
-
-
-
 
 
 
